@@ -1,6 +1,6 @@
 # Agentic AI Mini Projects
 
-A collection of 8 hands-on Agentic AI projects covering major frameworks —
+A collection of 8 hands-on Agentic AI projects covering major frameworks â€”
 built by strictly following official documentation of each framework.
 
 ## Projects
@@ -18,13 +18,9 @@ built by strictly following official documentation of each framework.
 
 ## Frameworks Covered
 
-LangChain · LangGraph · AutoGen (AG2) · PydanticAI · Gradio
+LangChain Â· LangGraph Â· AutoGen (AG2) Â· PydanticAI Â· Gradio
 
-## How These Were Built
 
-Every project was built by reading the official documentation of each framework
-first, then writing code strictly based on what the docs say — no random tutorial
-copying.
 
 ## Setup
 
@@ -34,4 +30,4 @@ pip install -r requirements.txt
 
 ## Author
 
-**drschway** — learning Agentic AI through hands-on projects
+**drschway** â€” learning Agentic AI through hands-on projects
