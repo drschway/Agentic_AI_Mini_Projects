@@ -1,6 +1,6 @@
 # Agentic AI Mini Projects
 
-A collection of 9 hands-on Agentic AI projects covering major frameworks â€”
+A collection of 8 hands-on Agentic AI projects covering major frameworks —
 built by strictly following official documentation of each framework.
 
 ## Projects
@@ -8,15 +8,30 @@ built by strictly following official documentation of each framework.
 | # | Project | Framework | Key Concepts |
 |---|---|---|---|
 | 01 | AI Math Assistant | LangChain + Ollama | Tools, @tool, create_agent |
-| 02 | Multi-Agent App with Food Images | CrewAI + Gradio | Multi-agent, Computer Vision |
-| 03 | CrewAI 101 | CrewAI | Agents, Tasks, Crews, Workflows |
-| 04 | Custom Tools for LLMs | LangChain | Tool creation, API integration |
-| 05 | ReAct Agent from Scratch | Python | ReAct loop, Reasoning, Acting |
-| 06 | Workflow Design Patterns | LangGraph | Sequential, Routing, Parallel |
-| 07 | Healthcare Chatbot | AG2 / AutoGen | Multi-agent collaboration |
-| 08 | Customer Support Agent | PydanticAI | Schema validation, Structured agents |
-| 09 | Document Chat | LangGraph + RAG | Agentic RAG, Docling, Self-correction |
+| 02 | Diet Assistant Multi Agent | LangGraph + Gradio | Multi-agent, LangGraph, Gradio |
+| 03 | Custom Tools for LLMs | LangChain | Tool creation, API integration |
+| 04 | ReAct Agent from Scratch | LangGraph | ReAct loop, Reasoning, Acting |
+| 05 | Workflow Design Patterns | LangGraph | Sequential, Routing, Parallel |
+| 06 | Healthcare Chatbot | AG2 / AutoGen | Multi-agent collaboration |
+| 07 | Customer Support Agent | PydanticAI + FastAPI | Schema validation, Structured agents |
+| 08 | Document Chat | LangGraph + RAG | Agentic RAG, Docling, Self-correction |
 
 ## Frameworks Covered
 
-LangChain Â· LangGraph Â· CrewAI Â· AutoGen (AG2) Â· PydanticAI
+LangChain · LangGraph · AutoGen (AG2) · PydanticAI · Gradio
+
+## How These Were Built
+
+Every project was built by reading the official documentation of each framework
+first, then writing code strictly based on what the docs say — no random tutorial
+copying.
+
+## Setup
+
+\\\ash
+pip install -r requirements.txt
+\\\
+
+## Author
+
+**drschway** — learning Agentic AI through hands-on projects
