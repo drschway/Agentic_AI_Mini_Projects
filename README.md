@@ -22,12 +22,3 @@ LangChain · LangGraph · AutoGen (AG2) · PydanticAI · Gradio
 
 
 
-## Setup
-
-\\\ash
-pip install -r requirements.txt
-\\\
-
-## Author
-
-**drschway** — learning Agentic AI through hands-on projects
